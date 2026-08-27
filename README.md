@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="banner.png" alt="Juan Martin Garcia Banner" width="100%" />
+  <img src="bannerjuanmagarciat.png" alt="Juan Martin Garcia Banner" width="100%" />
 </div>
 
 <br><br>
