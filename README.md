@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="bannerjuanmagarciat.png" alt="Juan Martin Garcia Banner" width="100%" />
+  <img src="banner.png" alt="Juan Martin Garcia Banner" width="100%" />
 </div>
 
 <br><br>
@@ -72,11 +72,11 @@
 <div align="center">
   <h3>📫 Conecta conmigo</h3>
   <br>
-  <a href="ENLACE_A_TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-martin-garcia-9044a3320/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:TU_CORREO@gmail.com" target="_blank">
+  <a href="mailto:garciajuanmartin258@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
