@@ -1,7 +1,12 @@
 <!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="bannerjuanmagarciat.png" alt="Juan Martin Garcia Banner" width="100%" />
+  <img src="banner.png" alt="Juan Martin Garcia Banner" width="100%" />
 </div>
+
+<br><br>
+
+<!-- LÍNEA SEPARADORA VERDE CLARO -->
+<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
 
 <br><br>
 
@@ -27,6 +32,11 @@
 
 <br>
 
+<!-- LÍNEA SEPARADORA VERDE CLARO -->
+<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
+
+<br>
+
 <!-- STACK TECNOLÓGICO -->
 <h3>🛠️ Tecnologías y Herramientas</h3>
 
@@ -47,8 +57,14 @@
   <b>Herramientas</b> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
 </p>
+
+<br>
+
+<!-- LÍNEA SEPARADORA VERDE CLARO -->
+<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
 
 <br>
 
@@ -67,7 +83,7 @@
 
 <br>
 
-<!-- CONTADOR DE VISTAS -->
+<!-- CONTADOR DE VISTAS CON COLOR VERDE LIMA -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanmagarciat&color=238636&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=juanmagarciat&color=B4ED50&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Profile views" />
 </div>
