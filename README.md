@@ -47,19 +47,8 @@
   <b>Herramientas</b> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
 </p>
-
-<br>
-
-<!-- PROYECTOS DESTACADOS -->
-<h3>📌 Proyectos Destacados</h3>
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **[TPI-PRO2](https://github.com/juanmagarciat/TPI-PRO2-4-GARCIA-VALENTINI)** | Sistema de gestión orientado al desarrollo backend y persistencia. | `Java` `Spring Boot` `SQL` |
-| **[TPI-Program2025-GyV](https://github.com/juanmagarciat/TPI-Program2025-GyV)** | Aplicación de consola para gestionar información y cargar datos mediante archivos CSV. | `Python` |
 
 <br>
 
