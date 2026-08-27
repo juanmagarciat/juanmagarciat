@@ -4,7 +4,7 @@
   
   <br><br>
   
-  <h1>Hi 👋, I'm Juan Martín</h1>
+  <h1>Hola👋, Soy Juan Martín</h1>
   <h3>Estudiante de Programación & Desarrollador Backend</h3>
   <p>Construyendo arquitecturas sólidas y gestionando datos de manera eficiente desde Mendoza, Argentina.</p>
 </div>
