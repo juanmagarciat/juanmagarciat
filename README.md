@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
+<img src="https://dummyimage.com/1000x2/FFFFFF/FFFFFF" width="100%" />
 
 ### Sobre mí
 
@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
+<img src="https://dummyimage.com/1000x2/FFFFFF/FFFFFF" width="100%" />
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
+<img src="https://dummyimage.com/1000x2/FFFFFF/FFFFFF" width="100%" />
 
 <br>
 
@@ -73,7 +73,7 @@ Combino estas herramientas con mis conocimientos de backend, arquitectura y base
 
 <br>
 
-<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
+<img src="https://dummyimage.com/1000x2/FFFFFF/FFFFFF" width="100%" />
 
 <br>
 
@@ -93,5 +93,5 @@ Combino estas herramientas con mis conocimientos de backend, arquitectura y base
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanmagarciat&color=B4ED50&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=juanmagarciat&color=FFFFFF&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Profile views" />
 </div>
