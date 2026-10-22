@@ -7,8 +7,6 @@
 
 <img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
 
-<br><br>
-
 ### Sobre mí
 
 - Actualmente cursando la Tecnicatura en Programación en la **UTN Mendoza**.
