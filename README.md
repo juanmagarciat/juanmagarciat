@@ -3,8 +3,6 @@
   <img src="banner-juan-martin-full-stack.png" alt="Juan Martin Garcia Banner" width="100%" />
 </div>
 
-<br><br>
-
 <img src="https://dummyimage.com/1000x2/FFFFFF/FFFFFF" width="100%" />
 
 ### Sobre mí
