@@ -5,40 +5,26 @@
 
 <br><br>
 
-<!-- LÍNEA SEPARADORA VERDE CLARO -->
 <img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
 
 <br><br>
 
-<!-- SECCIÓN A DOS COLUMNAS -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="60%">
-      <h3>👨‍💻 Sobre mí</h3>
-      <ul>
-        <li>🔭 Actualmente cursando la Tecnicatura en Programación en la <b>UTN Mendoza</b>.</li>
-        <li>🌱 Profundizando mis conocimientos en el desarrollo backend con <b>Java y Python</b>.</li>
-        <li>⚙️ Apasionado por la construcción de arquitecturas sólidas y la gestión eficiente de datos.</li>
-        <li>💬 Pregúntame sobre <b>Spring Boot, SQL o lógica de programación</b>.</li>
-        <li>⚡ Dato curioso: Mi máxima productividad programando siempre llega en los días fríos y nublados con un buen café.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Ilustración animada -->
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="120" />
-    </td>
-  </tr>
-</table>
+### Sobre mí
+
+- Actualmente cursando la Tecnicatura en Programación en la **UTN Mendoza**.
+- Profundizando mis conocimientos en el desarrollo backend con **Java y Python**.
+- Apasionado por la construcción de arquitecturas sólidas y la gestión eficiente de datos.
+- Integro agentes de IA en mis proyectos, aplicando desarrollo guiado por especificaciones (SDD), orquestación de agentes y gestión de contexto.
+- Pregúntame sobre **Spring Boot, SQL o lógica de programación**.
+- Dato curioso: Mi máxima productividad programando siempre llega en los días fríos y nublados con un buen café.
 
 <br>
 
-<!-- LÍNEA SEPARADORA VERDE CLARO -->
 <img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
 
 <br>
 
-<!-- STACK TECNOLÓGICO -->
-<h3>🛠️ Tecnologías y Herramientas</h3>
+### Tecnologías y Herramientas
 
 <p>
   <b>Lenguajes</b> &nbsp;&nbsp;&nbsp;
@@ -63,14 +49,31 @@
 
 <br>
 
-<!-- LÍNEA SEPARADORA VERDE CLARO -->
+<img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
+
+<br>
+
+### Desarrollo con IA
+
+Utilizo agentes de IA para acompañar el desarrollo de software: desde el análisis de requisitos y la planificación hasta la implementación y revisión de cambios.
+
+- **Spec-Driven Development (SDD):** defino especificaciones, criterios de aceptación y tareas para guiar el desarrollo.
+- **Orquestación de agentes:** coordino agentes y subagentes con responsabilidades específicas para analizar, diseñar, implementar y verificar soluciones.
+- **OpenSpec:** organizo especificaciones y propuestas de cambio para mantener alineados los requisitos y el código.
+- **Engram:** conservo contexto y decisiones técnicas entre sesiones de trabajo con agentes.
+- **Revisión y validación:** reviso las soluciones propuestas y verifico su funcionamiento mediante pruebas.
+
+Combino estas herramientas con mis conocimientos de backend, arquitectura y bases de datos, manteniendo el control sobre las decisiones técnicas y la calidad del código.
+
+<br>
+
 <img src="https://dummyimage.com/1000x2/B4ED50/B4ED50" width="100%" />
 
 <br>
 
 <!-- CONTACTO Y REDES -->
 <div align="center">
-  <h3>📫 Conecta conmigo</h3>
+  <h3>Conecta conmigo</h3>
   <br>
   <a href="https://www.linkedin.com/in/juan-martin-garcia-9044a3320/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -83,7 +86,6 @@
 
 <br>
 
-<!-- CONTADOR DE VISTAS CON COLOR VERDE LIMA -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=juanmagarciat&color=B4ED50&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Profile views" />
 </div>
