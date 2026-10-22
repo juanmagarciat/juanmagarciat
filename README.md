@@ -11,6 +11,7 @@
 
 - Actualmente cursando la Tecnicatura en Programación en la **UTN Mendoza**.
 - Profundizando mis conocimientos en el desarrollo backend con **Java y Python**.
+- Desarrollo páginas web con **HTML, CSS y JavaScript**.
 - Apasionado por la construcción de arquitecturas sólidas y la gestión eficiente de datos.
 - Integro agentes de IA en mis proyectos, aplicando desarrollo guiado por especificaciones (SDD), orquestación de agentes y gestión de contexto.
 - Pregúntame sobre **Spring Boot, SQL o lógica de programación**.
@@ -29,6 +30,13 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+<p>
+  <b>Desarrollo web</b> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 <p>
